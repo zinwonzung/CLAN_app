@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4da4dfb42ee9978f3d4aaba4984af6312378ab9296336c384ee5e15751908fcf"
+build_start_time: [1681223505, 614418029]
+build_end_time: [1681223507, 697077989]
+inputs:
+  "/Users/jeongjin-won/Desktop/Clan/flutter_application_1/macos/Flutter/GeneratedPluginRegistrant.swift": [1681223498, 826563596]
+  "/Users/jeongjin-won/Desktop/Clan/flutter_application_1/macos/Runner/AppDelegate.swift": [1680204710, 0]
+  "/Users/jeongjin-won/Desktop/Clan/flutter_application_1/macos/Runner/MainFlutterWindow.swift": [1680204710, 0]
